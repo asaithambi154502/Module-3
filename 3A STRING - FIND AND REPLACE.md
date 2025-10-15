@@ -1,5 +1,5 @@
 # Exp.No:3a
-## STRING - FIND AND REPLACE
+## STRING - REMOVE FORM STRING 
 
 ---
 
