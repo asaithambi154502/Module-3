@@ -4,7 +4,7 @@
 ---
 
 ### AIM  
-To write a Python function that accepts a string and forms a new string by reversing the characters from the **4th position to the 10th position** with **alternate characters**, and then prints the new string.
+To write a Python function that accepts  a python function that accepts the string and prints every second item between 2 to 10.  and then prints the new string.
 
 ---
 
@@ -22,9 +22,16 @@ To write a Python function that accepts a string and forms a new string by rever
 
 ### PROGRAM
 
-```
+```python
+def slice(str1):
+    text=str1[2:10:2]
+    print(f"The sliced string is '{text}'")
+str1=""
 ```
 
 ### OUTPUT
+<img width="1040" height="288" alt="image" src="https://github.com/user-attachments/assets/74f9a628-c41f-4a18-ae8c-e5c793e296a9" />
+
 
 ### RESULT
+
