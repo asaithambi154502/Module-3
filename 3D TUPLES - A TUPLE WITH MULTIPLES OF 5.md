@@ -38,3 +38,4 @@ print(multiples_of_5)
 
 
 ### RESULT
+Thus the python program to create a tuple containing all multiples of 5 up to a given number **N**has been implemented and executed successfully.
