@@ -34,4 +34,5 @@ str1=""
 
 
 ### RESULT
-
+Thus the python program to create a python function that accepts the string and prints every second item between 2 to 10.  and then prints the new string
+has been implemented and executed successfully.
